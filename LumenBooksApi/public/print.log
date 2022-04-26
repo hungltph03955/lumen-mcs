@@ -1,0 +1,15 @@
+Line : 21 validSecret Array
+(
+    [0] => asdasdasd
+    [1] => asdasdasd
+    [2] => Bf9SuMDbbq9zW5WXcLEsuaOoL5v1Wp46
+)
+
+Line : 21 validSecret Array
+(
+    [0] => asdasdasd
+    [1] => asdasdasd
+    [2] => Bf9SuMDbbq9zW5WXcLEsuaOoL5v1Wp46
+)
+
+Line : 23 request->header('Authorization') z5OvvBJGLrte5lTI8isrgyi1jLys7Kp6
